@@ -2,18 +2,16 @@ Package: lib-xml-rpc
 Section: extensions
 License: GPL-2+
 Depends: emacs (>= 22)
-Status: core-emacs-23.1 stable
+Status: stable
 Compat:
 Maintainer: Jari Aalto <jari.aalto@cante.net>
 Bugs:
-Upstream: Mark A. Hershberger <mah@everybody.org>
-Upstream-Bugs: http://savannah.nongnu.org/bugs/?group=emacsweblogs
+Upstream: Mark A. Hershberger <mah@everybody.org>,
+ Mark A. Hershberger <hexmode@gmail.com>
+Upstream-Bugs: https://bugs.launchpad.net/xml-rpc-el
 Vcs-Type: bzr
-Vcs-Url: http://bzr.savannah.gnu.org/lh/emacsweblogs
-Vcs-Args:
-Vcs-Browser: http://bzr.savannah.gnu.org/lh/emacsweblogs/annotate/head%3A/lisp/xml-rpc.el
-Vcs-User:
-Vcs-Password:
+Vcs-Url: lp:xml-rpc-el
+Vcs-Browser: https://launchpad.net/xml-rpc-el
 Homepage:
 Wiki: http://www.emacswiki.org/emacs/XmlRpc
 Commentary: xml-rpc.el
