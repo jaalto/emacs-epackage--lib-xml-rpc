@@ -28,7 +28,4 @@ Description: library of remote procedure calls over HTTP (obsolete; 23.1)
  converting to and from the XML datastructures as needed, both for method
  parameters and return values, making using XML-RPC methods fairly
  transparent to the lisp code.
- .
- This library is developed at Savannah "emacsweblogs" project.
- .
- Originally written 2001 by Daniel Lundin <daniel@codefactory.se>.
+
