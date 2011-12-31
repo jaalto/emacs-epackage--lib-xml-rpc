@@ -2,7 +2,7 @@ Package: lib-xml-rpc
 Section: extensions
 License: GPL-2+
 Depends: emacs (>= 22)
-Status: stable
+Status: core-emacs-23.1 stable
 Compat:
 Maintainer: Jari Aalto <jari.aalto@cante.net>
 Bugs:
@@ -20,7 +20,7 @@ Commentary: xml-rpc.el
 X-Development: xml-rpc is developed inside emacsweblogs project.
  See http://savannah.nongnu.org/projects/emacsweblogs
  and http://bzr.savannah.gnu.org/lh/emacsweblogs/files/head:/lisp/
-Description: library of remote procedure calls alls over HTTP
+Description: library of remote procedure calls over HTTP (obsolete; 23.1)
  XML-RPC is remote procedure calls over HTTP using XML to describe the
  function call and return values. This library is capable of both
  synchronous and asynchronous method calls using the url.el package's
