@@ -25,4 +25,4 @@
 (autoload 'xml-rpc-method-call-async            "xml-rpc" "" nil)
 (autoload 'xml-rpc-method-call                  "xml-rpc" "" nil)
 
-(provide 'xml-rpc-epkg-autoloads)
+(provide 'xml-rpc-epackage-autoloads)
